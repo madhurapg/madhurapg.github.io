@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Access Mapping Project](http://web.sas.upenn.edu/access-map/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
