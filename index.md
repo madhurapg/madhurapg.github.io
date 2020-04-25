@@ -2,9 +2,8 @@
 
 ---
 
-### Category Name 1 
-
-[Access Mapping Project](http://web.sas.upenn.edu/access-map/)
+###[Access Mapping Project](http://web.sas.upenn.edu/access-map/)
+<br>
 <img src="AMP_logo.PNG"/>
 
 ---
