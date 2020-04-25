@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Access Mapping Project](http://web.sas.upenn.edu/access-map/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="AMP_logo.PNG"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
