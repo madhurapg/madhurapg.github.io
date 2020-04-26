@@ -1,15 +1,18 @@
 ## Portfolio
 
 ---
-
+## Webapp and GIS
+<br>
 ### [Access Mapping Project](http://web.sas.upenn.edu/access-map/)
 <br>
 <img src="AMP_logo.PNG"/>
 
 ---
+## RStudio
+<br>
 ### [Geospatial Risk Prediction: Narcotics Crime in Chicago](/pdf/risk_pred_markdown.html)
 <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Chicago_logo.PNG"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -17,7 +20,7 @@
 
 ---
 
-### Category Name 2
+## Python
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
