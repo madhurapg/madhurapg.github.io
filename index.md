@@ -7,7 +7,7 @@
 <img src="AMP_logo.PNG"/>
 
 ---
-### [Project 2 Title](/pdf/sample_presentation.pdf)
+### [Geospatial Risk Prediction: Narcotics Crime in Chicago](/pdf/risk_pred_markdown.html)
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
