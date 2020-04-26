@@ -1,16 +1,16 @@
-## Portfolio
+# Portfolio
 
 ---
 ## Webapp and GIS
-<br>
-### [Access Mapping Project](http://web.sas.upenn.edu/access-map/)
+
+- [Access Mapping Project](http://web.sas.upenn.edu/access-map/)
 <br>
 <img src="AMP_logo.PNG"/>
 
 ---
 ## RStudio
-<br>
-### [Geospatial Risk Prediction: Narcotics Crime in Chicago](/pdf/risk_pred_markdown.html)
+
+- [Geospatial Risk Prediction: Narcotics Crime in Chicago](/pdf/risk_pred_markdown.html)
 <br>
 <img src="Chicago_logo.PNG"/>
 
