@@ -17,7 +17,7 @@
 ---
 ## Conference poster and research
 
-- [Spatial Data Enrichment for Historical Analysis of Non-Occupational Exposure to Asbestos](/pdf/SRP 2017 meeting poster - Tam Draft.pdf)
+- [Spatial Data Enrichment for Historical Analysis of Non-Occupational Exposure to Asbestos](/pdf/SRP 2017 meeting poster.pdf)
 <br>
 The research reported in this poster was supported by National Institute Environmental Health Sciences of the National Institutes of Health under award number P42 ES023720 Penn Superfund Research Program (SRP) Center Grant, and Supplement (3P42ES023720-01S1). This research reflects work done through Project 3 of the P42 SRP grant and the Biostatistical Research Support Core (Core D).
 <br>
