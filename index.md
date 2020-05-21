@@ -37,7 +37,7 @@ The research reported in this poster was supported by National Institute Environ
 
 ## Python
 
-- [Project 1 Title](http://example.com/)
+- [EuroSAT Land Use and Land Cover Classification using Deep Learning](/EuroSAT_classification.ipynb)
 
 ---
 
