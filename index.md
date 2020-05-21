@@ -42,7 +42,7 @@ The research reported in this poster was supported by National Institute Environ
 This notebook contains five deep learning methods written in Python and compares their performance for land cover image classification. The EuroSAT dataset containing 27,000 Sentinel-2 satellite images  was used. Each image consists of 13 spectral bands and is pre-labeled labeled based on its major land use type.
 <br>
 <br>
-<img src="Asbestos_logo.PNG"/>
+<img src="images/eurosat_logo.PNG"/>
 
 ---
 
