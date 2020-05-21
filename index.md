@@ -13,8 +13,9 @@
 - [Prioritizing allocation of Affordable Housing Trust Fund in Louisville, KY](/pdf/MUSA800_LouisvilleGentrification_JS.html)
 <br>
 My team and I developed a model for predicting home sale price indices in Louisville, KY and identify housing market areas likely to gentrify in the future. Use the results of this model we created an app to help prioritize allocation of the city's limited funds while creating the most impact.
-
+<br>
 Application dashboard: [EquiLiving](https://zxuanxu.github.io/EquiLivingAPP/#)
+<br>
 <br>
 <img src="images/EquiLiving_logo.PNG"/>
 
