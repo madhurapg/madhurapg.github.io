@@ -46,7 +46,7 @@ This notebook contains five deep learning methods written in Python and compares
 - **[Ships in Satellite imagery - Classify ships in San Franciso Bay using Clustering](https://github.com/madhurapg/Remote-Sensing/blob/master/Ships_classification.ipynb)**
 <br>
 <br>
-This notebook contains five deep learning methods written in Python and compares their performance for land cover image classification. The EuroSAT dataset containing 27,000 Sentinel-2 satellite images  was used. Each image consists of 13 spectral bands and is pre-labeled labeled based on its major land use type.
+In this notebook, we use classify images using principal component analysis, clustering, svm classifier and grid search cross validation. The dataset used consists of image chips extracted from Planet satellite imagery collected over the San Francisco Bay and San Pedro Bay areas of California. It includes 4000 80x80 RGB images labeled with either a "ship" or "no-ship" classification.
 <br>
 <br>
 <img src="images/ships_logo.PNG"/>
