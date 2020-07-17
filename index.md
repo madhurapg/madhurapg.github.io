@@ -27,7 +27,7 @@ My team and I developed a model for predicting home sale price indices in Louisv
 - **[Visualizing 3.4 million data points](https://github.com/madhurapg/Remote-Sensing/blob/master/gif.ipynb)**
 <br>
 <br>
-I created a gif to visualize the 3.4 million 311 service and information requests made over the 311 mobile app to the city of Philadelphia. The data is plotted by zipcode for each day of the week.
+I created a gif to visualize around 3.4 million 311 service and information requests made over the 311 mobile app to the city of Philadelphia. The data is plotted by zipcode for each day of the week.
 <br>
 <br>
 <img src="images/311_days (2).gif"/>
