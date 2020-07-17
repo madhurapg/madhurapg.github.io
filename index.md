@@ -1,14 +1,6 @@
 # Portfolio
 
 ---
-## Webapp and GIS
-
-- **[Access Mapping Project](http://web.sas.upenn.edu/access-map/)**
-<br>
-<br>
-<img src="AMP_logo.PNG"/>
-
----
 ## RStudio
 
 - **[Prioritizing allocation of Affordable Housing Trust Fund in Louisville, KY](/pdf/MUSA800_LouisvilleGentrification_JS.html)**
@@ -30,7 +22,6 @@ My team and I developed a model for predicting home sale price indices in Louisv
 <img src="Chicago_logo.PNG"/>
 
 ---
-
 ## Python
 
 - **[Visualizing 3.4 million data points](https://github.com/madhurapg/Remote-Sensing/blob/master/gif.ipynb)**
@@ -61,6 +52,14 @@ In this notebook, I classified images using principal component analysis, cluste
 <br>
 <br>
 <img src="images/ships_logo.PNG"/>
+
+---
+## Webapp and GIS
+
+- **[Access Mapping Project](http://web.sas.upenn.edu/access-map/)**
+<br>
+<br>
+<img src="AMP_logo.PNG"/>
 
 ---
 ## Conference poster and research
